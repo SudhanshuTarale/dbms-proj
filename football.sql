@@ -1,0 +1,1 @@
+drop table "STARALE"."SEA" cascade constraints PURGE
